@@ -10,4 +10,4 @@ git push
 mkdir 0x03-git
 cd 0x03-git
 touch up_to_date
-
+git pull

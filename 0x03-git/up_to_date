@@ -1,0 +1,13 @@
+git clone
+cd alx-zero_day
+echo 'My first readme' > README.md
+cat README.md
+git config --global user.email
+git config --global user.name
+git add .
+git commit -m 'My first commit'
+git push
+mkdir 0x03-git
+cd 0x03-git
+touch up_to_date
+
